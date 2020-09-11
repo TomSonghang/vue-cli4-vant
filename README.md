@@ -7,7 +7,7 @@
 技术栈：vue-cli4 + webpack4 + vant + axios + less + postcss-px2rem
 
 ```js
-// 安装依赖
+// 安装依赖    lema 
 npm install
 
 // 本地启动

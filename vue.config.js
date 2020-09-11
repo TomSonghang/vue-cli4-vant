@@ -7,7 +7,7 @@ const SkeletonWebpackPlugin = require('vue-skeleton-webpack-plugin')
 function resolve (dir) {
   return path.join(__dirname, dir)
 }
-module.exports = {
+module.exports = {      //测试一下Git
 
   publicPath: './',
 
